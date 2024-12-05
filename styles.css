@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+.modal-header{
+	width:80vw;
+	background-color:green;
+	margin-inline:10vw;
+}
+.modal-body{
+	width:80vw;
+	margin-inline:10vw;
+}
+h2{
+	padding:10px;
+}
+body{
+	
+	color:#ccc;
+	transp
+}
